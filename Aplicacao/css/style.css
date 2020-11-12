@@ -1,0 +1,81 @@
+.cor-verde{
+    background-color:#52cd4e;
+}
+
+#menubar ul li a {
+    font: 20px;
+    color: #fff;
+}
+
+#menubar ul li a:hover {
+    color: #000;
+}
+
+a:hover {
+    color: #000;
+    text-decoration:none;
+}
+.texto-verde {
+    color:rgb(82, 205, 78);
+}
+
+.cor-borda {
+    border: 1px solid #c2c2c2;
+    background: #fff;
+    border-radius: 10px;
+}
+
+.cor-borda2 {
+    border: 1px solid #c2c2c2;
+    border-radius: 10px;
+}
+
+.cor-creme {
+    background: #f6f6f6;
+}
+
+/******* Directorio **********/
+#dir, #dir a {
+    color: rgb(212, 209, 209);
+    font-size: 13px;
+}
+
+/** canecalho de formulaarios, tabelas, etc ***/
+
+.borda-titulo {
+	height: 8vh;
+	border-top: 1px solid #c2c2c2;
+	border-right: 1px solid #c2c2c2;
+	border-left: 1px solid #c2c2c2;
+	color: #afafaf;
+	background: #f6f6f6;
+    padding-top: 1vh;
+    font-size: 3vh;
+}
+
+/******* Rodape ************/
+.bgfooter{ 
+    background-color: rgba(0,0, 0, .7);
+}
+
+.footer-cor{
+    color: #888888;
+}
+
+.footer-border{
+    border-bottom: 1px solid rgba(0,0, 0, .3);
+    border-top: 1px solid rgba(0,0, 0, .3);
+}
+
+.borda-form{
+    box-shadow:0px 0px 6px rgba(0,0,0,1);
+}
+
+footer a{
+    color: #28a745b5;
+}
+
+.footer-icone {
+    font-size: 40px;
+}
+

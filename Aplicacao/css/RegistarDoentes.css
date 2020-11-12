@@ -1,0 +1,25 @@
+legend {
+	color: #5bc0de;
+}
+
+/******** Conteudo******/
+
+#form-step-0, #form-step-1, #form-step-2, #form-step-3, .cor-creme, #form-div div {
+    background: #f6f6f6;
+} 
+
+#cadastro{
+    min-height: 80vh;
+}
+
+#cadastro-doente{
+    background-color: #888888;
+    width: 100%;
+    padding: 0.5rem;
+    margin: 0px !important;
+}
+
+#div-cadastro-doente{
+    padding: 0px;
+}
+
