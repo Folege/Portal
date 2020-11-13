@@ -16,8 +16,8 @@
         <div class="row">
             <div class="col-12">
                 <div class="collapse navbar-collapse float-left">
-                    <h1 class="texto-verde" >SACE</h1>
-                    <h5 class="texto-verde ml-2 mt-3" >Sistema de Apadrinhamento de Criancas Especiais</h5>
+                    <h1 class="texto-verde" >SACEM</h1>
+                    <h5 class="texto-verde ml-2 mt-3" >Sistema de Apadrinhamento de Criancas Especiais em Mocambique</h5>
                 </div>
                 
                 <div class="float-right mr-3">
@@ -64,10 +64,15 @@
                         </div>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="lista-instituicoes.php">Instituições/Escola/Centro</a>
+                        <a class="nav-link" href="lista-instituicoes.php">Instituições de Ensino Especial</a>
                     </li>
-                    <li class="nav-item">
-                        <a class="nav-link" href="relatorio.php">Relatórios</a>
+                    <li class="nav-item dropdown">
+                        <a class="nav-link dropdown-toggle" data-toggle="dropdown" href="#">Acoes</a>
+                        <div class="dropdown-menu cor-verde">
+                            <a class="dropdown-item" href="campanhas.php">Apadrinhar uma Sala</a>
+                            <a class="dropdown-item" href="artigos.php">Apadrinhar uma Crianca</a>
+                            <a class="dropdown-item" href="pedidos.php">Doacao</a>
+                        </div>
                     </li>
                       
                 </ul>
@@ -121,9 +126,6 @@
                 </li>
                 <li class="nav-item">
                     <a class="nav-link" href="doencas-raras.php">Doenças Raras</a>
-                </li>
-                <li class="nav-item">
-                    <a class="nav-link" href="http://localhost/sapdr/Aplicacao/forumsapdr/">Foruns</a>
                 </li>
                 <li class="nav-item dropdown">
                     <a class="nav-link dropdown-toggle" data-toggle="dropdown" href="#">Publicações</a>

@@ -15,8 +15,8 @@
                 </button>
         
                 <div class="collapse navbar-collapse float-left">
-                    <h1 class="texto-verde" >SACE</h1>
-                    <h5 class="texto-verde ml-2 mt-3" >Sistema de Apadrinhamento de Criancas Especiais</h5>
+                    <h1 class="texto-verde" >SACEM</h1>
+                    <h5 class="texto-verde ml-2 mt-3" >Sistema de Apadrinhamento de Criancas Especiais em Mocambique</h5>
                 </div>
         
                 <div class="float-right borda-esquerda">
