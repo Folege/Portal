@@ -8,7 +8,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <title>Doenças Raras | SAPDR</title>
+    <title>Programas de Apadrinhamento | SACEM</title>
     
     <link rel="stylesheet" type="text/css" href="css/bootstrap.css">
     <link rel="stylesheet" href="css/fonts.css">
@@ -37,15 +37,15 @@
     
             <div class="row mt-3">
                 <div class="col-sm-12">
-                    <p id="dir"><a href="index.html"><i class="fas fa-home mr-1"></i>Inicio</a> > <span
-                            class="texto-verde">Doenças Raras</span></p>
+                    <p id="dir"><a href="index.php"><i class="fas fa-home mr-1"></i>Inicio</a> > <span
+                            class="texto-verde">Programas de Apadrinhamento</span></p>
                     <hr class="cor-verde">
                 </div>
             </div>
     
             <div class="row">   
                 <div class="col-lg-9">
-                    <h1>Doenças Raras</h1>
+                    <h1>Programas de Apadrinhamento</h1>
                 </div>
                 <div class="col-lg-3">
                     <form class="form-inline">
@@ -79,21 +79,6 @@
                         lerDoencaNome($_GET['pesquisar']);
                     } else {
                 ?>
-                    <div class="row">
-                        <!--lista do tipo -->
-                        <ul class="nav nav-pills ml-3 mb-3" id="tipo" role="tablist">
-                            <li class="nav-item">
-                                <h6 class="mt-2 mr-3">Tipo |</h6>
-                            </li>
-                            <li class="nav-item">
-                                <a class="nav-link active active1 texto-verde" id="" data-toggle="pill" href="#tipo1">Proliferativas</a>
-                            </li>
-                            <li class="nav-item">
-                                <a class="nav-link texto-verde" id="" data-toggle="pill" href="#tipo2">Degenerativas</a>
-                            </li>
-                        </ul>
-                    </div>
-                    
                     <div class="row">
                         <!--conteudo da lista tipo -->
                         <div class="col-12 tab-content" id="nav-pills-tipo">

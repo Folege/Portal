@@ -1,7 +1,7 @@
 <?php
 	session_start();
 	if(!isset($_SESSION['nomeAdmin'])){
-		//header('Location:login.php');
+		header('Location:login.php');
 	}
 
     //metodo que cria cabecalho do admin
@@ -60,22 +60,11 @@
                     <li>
                         <a class="dropdown-toggle" data-toggle="collapse" aria-expanded="false" href="#menu-usuarios"><i class="fas fa-users mr-2"></i>Usuários</a>
                         <ul class="collapse list-unstyled menu-dropdown" id="menu-usuarios">
-                            <li><a href="lista-de-profissionais.php"><i class="fas fa-angle-double-right mr-2"></i>Padrinhos</a></li>
-                            <li><a href="lista-de-doentes.php"><i class="fas fa-angle-double-right mr-2"></i></a></li>
+                            <li><a href="lista-de-profissionais.php"><i class="fas fa-angle-double-right mr-2"></i>Administradores</a></li>
+                            <li><a href="lista-de-doentes.php"><i class="fas fa-angle-double-right mr-2"></i>Padrinhos</a></li>
                         </ul>
                     </li>
-                    <hr class="linha">
-                    <li><a href="lista-de-doencas.php"><i class="fas fa-list-ul mr-2"></i>Centros/Escolas</a></li>
-                    <hr class="linha">
-                    <li>
-                        <a class="dropdown-toggle" data-toggle="collapse" aria-expanded="false" href="#menu-publicacoes"><i class="fas fa-newspaper mr-2"></i>Publicações</a>
-                        <ul class="collapse list-unstyled menu-dropdown" id="menu-publicacoes">
-                            <li><a href="lista-de-documentos.php"><i class="fas fa-angle-double-right mr-2"></i>Documentos</a></li>
-                            <li><a href="lista-de-artigos.php"><i class="fas fa-angle-double-right mr-2"></i>Artigos</a></li>
-                            <li><a href="lista-de-campanhas.php"><i class="fas fa-angle-double-right mr-2"></i>Campanhas</a></li>
-                            <li><a href="lista-de-testemunhos.php"><i class="fas fa-angle-double-right mr-2"></i>Testemunhos</a></li>
-                        </ul>
-                    </li>
+                    
                     <hr class="linha">
                     <li><a href="lista-de-instituicoes.php"><i class="fas fa-h-square mr-2"></i>Instituições de Ensino Especial</a></li>
                     <hr class="linha">
@@ -97,7 +86,7 @@
  ?>       
         <footer class="row  mt-5">
             <div class="col-12 text-center">
-                <p><span class="texto-verde">SAPDR</span>  &copy; 2019 - Todos Direitos Reservados<br> </p>
+                <p><span class="texto-verde">SACEM</span>  &copy; 2020 - Todos Direitos Reservados<br> </p>
             </div>
         </footer>
 <?php   
