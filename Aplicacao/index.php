@@ -89,7 +89,7 @@
                 <div class="col-12 " id="descricao-spdr">
                     <h1 class="display-4">Sistema de Apadrinhamento de Criancas Especiais</h1>
                     <p class="text-justify">
-                        O sistema tem como objetivo principal permitir a iteração 
+                        O sistema tem como objetivo principal permitir a interação 
                         entre portadores de doenças raras ou seus representantes e 
                         entidades que possam prover apoio diverso. Este projecto 
                         mostra-se importante para os doentes/responsáveis a medida 
@@ -112,43 +112,28 @@
     
     <!--Conteudo-->
     <div class="container text-justify" id="conteudo">
-          
-        <div class="row my-5">
-            <div class="col-12" id="campanha">
-                <?php
-                    lerCampanhas(3);
-                ?>
-            </div>
-        </div>
        
         <div class="row my-5">
             <div class="col-12" id="artigo">
-                <h2>Artigo</h2>
-                <h3>O que são doenças raras?</h3>
+                <h2>O que é Apadrinhamento?</h2>
+                
                 <p>
-                    As doenças raras são caracterizadas por uma ampla diversidade de sinais e sintomas e
-                    variam não só de doença para doença, mas também de pessoa para pessoa acometida pela
-                    mesma condição. Manifestações relativamente frequentes podem simular doenças comuns,
-                    dificultando o seu diagnóstico, causando elevado sofrimento clínico e psicossocial aos afetados,
-                    bem como para suas famílias.
+                    sdxgfchvjkl;';lkjhgfdfghjkl/'
                 </p>
-                As doenças raras podem ser:
-                <ul>
-                    <li>degenerativas;</li>
-                    <li>proliferativas.</li>
-                </ul>
+                
             </div>
         </div>
 
         <div class="row my-5">
             <div class="col-12" id="apoio">
-                <h2>Pedido de apoio</h2>
+                <h2>Missão</h2>
                 <p>
-                    As doenças raras são caracterizadas por uma ampla diversidade de sinais e sintomas e
-                    variam não só de doença para doença, mas também de pessoa para pessoa acometida pela
-                    mesma condição. Manifestações relativamente frequentes podem simular doenças comuns,
-                    dificultando o seu diagnóstico, causando elevado sofrimento clínico e psicossocial aos afetados,
-                    bem como para suas famílias.
+                    Mobilizar pessoas e instituições para que atuem na valorização, 
+                    na proteção e na promoção dos direitos das crianças especiais na sociedade.
+                </p>
+                <p>
+                    Estabelecer relações e promover a inovação apoiando o desenvolvimento 
+                    educacional das crianças com necessidades educativas especiais em Moçambique. 
                 </p>
                 
             </div>
@@ -156,17 +141,40 @@
 
         <div class="row my-5">
             <div class="col-12" id="testemunho">
-                <h2>Testemunho</h2>
+                <h2>Visão</h2>
                 <p>
-                    As doenças raras são caracterizadas por uma ampla diversidade de sinais e sintomas e
-                    variam não só de doença para doença, mas também de pessoa para pessoa acometida pela
-                    mesma condição. Manifestações relativamente frequentes podem simular doenças comuns,
-                    dificultando o seu diagnóstico, causando elevado sofrimento clínico e psicossocial aos afetados,
-                    bem como para suas famílias.
+                    Ser referência na gestão de excelência de programas e projetos 
+                    socioambientais para a superação de problemas relacionados à educação especial. 
+                     
+                </p>
+                <p>
+                    Ser reconhecido como promoter do desenvolvimento local 
+                    sustentável utilizando tecnologias digitais.
                 </p>
             </div>
         </div>
           
+        <div class="row my-5">
+            <div class="col-12" id="testemunho">
+                <h2>Valores</h2>
+                <p>
+                    A SOLIDARIEDADE comi um valor importante para i exercício 
+                    da cidadania da tomada de consciência das necessidades dos 
+                    outros e do desejo de contribuir para as suas condições de vida;
+                </p>
+                <p>
+                    A IGUALDADE como características do trabalho da associação, 
+                    pautado pelo respeito pelas regras éticas e boas práticas
+                </p>
+                <p>
+                    A COOPERAÇÃO como principal ferramenta para o desenvolvimento
+                    do ser humano no mundo 
+                </p>
+                <p>
+                    A JUSTIÇA e o respeito pelas diferenças culturais e sociais
+                </p>
+            </div>
+        </div>
     </div>
 
     <!--Rodape-->
