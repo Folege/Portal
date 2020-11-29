@@ -89,8 +89,19 @@
                 <div class="col-12 " id="descricao-spdr">
                     <h1 class="display-4">Sistema de Apadrinhamento de Criancas Especiais</h1>
                     <p class="text-justify">
-                        O sistema tem como objetivo principal permitir a iteração entre portadores de doenças raras ou seus representantes e entidades que possam prover apoio diverso. Este projecto mostra-se importante para os doentes/responsáveis a medida em que vai permitir que estes tenham mais informações úteis do assunto em causa e possam interagir com gente na mesma situação. É uma forma de promover a inclusão social visto que muitas vezes os padecentes de doenças raras acabam sendo excluídos ou esquecidos.<br>  
-                        Com esta plataforma os pacientes poderão interagir um com os outros por meio de fóruns embutidos na plataforma; poderão também publicar pedidos de apoio, visualizar campanhas informativas, artigos e relatórios relacionados a doenças raras.
+                        O sistema tem como objetivo principal permitir a iteração 
+                        entre portadores de doenças raras ou seus representantes e 
+                        entidades que possam prover apoio diverso. Este projecto 
+                        mostra-se importante para os doentes/responsáveis a medida 
+                        em que vai permitir que estes tenham mais informações úteis 
+                        do assunto em causa e possam interagir com gente na mesma 
+                        situação. É uma forma de promover a inclusão social visto 
+                        que muitas vezes os padecentes de doenças raras acabam sendo 
+                        excluídos ou esquecidos.<br>  
+                        Com esta plataforma os pacientes poderão interagir um com os 
+                        outros por meio de fóruns embutidos na plataforma; poderão 
+                        também publicar pedidos de apoio, visualizar campanhas 
+                        informativas, artigos e relatórios relacionados a doenças raras.
                     </p>
                     <hr>
                 </div>
