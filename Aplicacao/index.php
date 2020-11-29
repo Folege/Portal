@@ -87,7 +87,7 @@
         <div class="container">
            <div class="row my-5">
                 <div class="col-12 " id="descricao-spdr">
-                    <h1 class="display-4">Sistema de Apadrinhamento de Criancas Especiais</h1>
+                    <h1 class="display-4">Apadrinhamento de Criancas Especiais Mocambique</h1>
                     <p class="text-justify">
                         O sistema tem como objetivo principal permitir a interação 
                         entre portadores de doenças raras ou seus representantes e 
