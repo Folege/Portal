@@ -1,0 +1,20 @@
+.content{
+  color:#737373;
+}
+
+.title{
+  color: #53cd4f;
+}
+
+.content button{
+  border: none;
+  background: none;
+  outline: inherit;
+  color: #2b7b47;
+
+}
+
+.content button:focus,.content button:active{
+  border: none;
+  color: #53cd4f;
+}
