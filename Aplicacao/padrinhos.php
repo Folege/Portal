@@ -63,39 +63,20 @@
         <div class="container">
             <div class="jumbotron page" id="page1">
                 <div class="container">
-                    <h6 class="display-3">Oi Padrinho, oi Madrinha</h6><br>
-                <p class="lead">Que Alegria ter Voce connosco nesse legado de Trasnformacao de Vidas</p><br>
-                <p class="lead">A que e a sua area para saber mais sobre o apadrinhamento, tirar duvidas
+                    <h2>Oi Padrinho, oi Madrinha</h2><br>
+                <p >Que Alegria ter Voce connosco nesse legado de Trasnformacao de Vidas</p><br>
+                <p >A que e a sua area para saber mais sobre o apadrinhamento, tirar duvidas
                 e realizar algumas acoes simples e rapidas como: actualizar seus dados ou forma de Pagamento</p><br>
+                <p>
+                Por aqui, você pode também escrever uma cartinha para seu afilhado(a) e fortalecer esse vínculo com uma pessoa que, talvez nunca tenha te visto de perto, mas que sabe que você é um ser muito especial na vida dela.
 
+Você também pode solicitar um agendamento de visita ou telefonema ao seu afilhado(a), ou fazer algum requerimento especial sobre sua criança apadrinhada               
+                </p>
                 
                 </div>
             </div>
-            <div class="jumbotron page" id="page2">
-                <h1 class="display-3">Not Another Jumbotron</h1>
-                <p class="lead">Cras justo odio, dapibus ac facilisis in, egestas eget quam. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.</p>
-                <p><a class="btn btn-lg btn-success" href="#" role="button">Sign up today</a></p>
-            </div>
-            <div class="jumbotron page" id="page3">
-                <h1 class="display-3">Data. Data. Data.</h1>
-                <p>This example is a quick exercise to illustrate how the default responsive navbar works. It's placed within a <code>.container</code> to limit its width and will scroll with the rest of the page's content.</p>
-                <p>
-                    <a class="btn btn-lg btn-primary" href="../../components/navbar" role="button">View navbar docs »</a>
-                </p>
-            </div>
-            <div class="jumbotron page" id="page4">
-                <h1 style="-webkit-user-select: auto;">Buy Now!</h1>
-                <p class="lead" style="-webkit-user-select: auto;">Cras justo odio, dapibus ac facilisis in, egestas eget quam. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet.</p>
-                <p style="-webkit-user-select: auto;"><a class="btn btn-lg btn-success" href="#" role="button" style="-webkit-user-select: auto;">Get started today</a></p>
-            </div>
-            <div class="jumbotron page" id="page5">
-                <h1 class="cover-heading">Cover your page.</h1>
-                <p class="lead">Cover is a one-page template for building simple and beautiful home pages. Download, edit the text, and add your own fullscreen background photo to make it your own.</p>
-                <p class="lead">
-                    <a href="#" class="btn btn-lg btn-primary">Learn more</a>
-                </p>
-            </div>
-            <ul id="pagination-demo" class="pagination pull-right"></ul>
+        
+            
             </div>
 
         </div>    
