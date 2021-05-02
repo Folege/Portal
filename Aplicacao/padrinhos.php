@@ -41,15 +41,15 @@
 
             <div class="row mt-3">
                 <div class="col-12">
-                    <p id="dir"><a href="index.html"><i class="fas fa-home mr-1"></i>Inicio</a> > Publicações > <span
-                            class="texto-verde">Campanhas</span></p>
+                    <p id="dir"><a href="index.html"><i class="fas fa-home mr-1"></i>Inicio</a> > <span
+                            class="texto-verde">Padrinhos</span></p>
                     <hr class="cor-verde">
                 </div>
             </div>
 
             <div class="row">
                 <div class="col-12">
-                    <h1>Campanhas</h1>
+                    <h1>Padrinhos</h1>
                 </div>
             </div>
 
@@ -58,46 +58,17 @@
 
     <!--Conteudo-->
     <div class="container">
-     
-        <?php //lerCampanhas(2); ?>
-        
-        <div class="row mb-5">
-            <div class="col-sm-12">
-                <hr class="cor-verde">
-                <nav aria-label="Page navigation">
-                    <ul class="pagination pagination-circle pg-blue" id="pagination-demo">
-                        <li class="page-item disabled"><a class="page-link">Primeira</a></li>
-                        <li class="page-item disabled">
-                            <a class="page-link" aria-label="Previous">
-                                <span aria-hidden="true">&laquo;</span>
-                                <span class="sr-only">Anterior</span>
-                            </a>
-                        </li>
-                        <li class="page-item active"><a class="page-link">1</a></li>
-                        <li class="page-item"><a class="page-link">2</a></li>
-                        <li class="page-item"><a class="page-link">3</a></li>
-                        <li class="page-item"><a class="page-link">4</a></li>
-                        <li class="page-item">
-                            <a class="page-link" aria-label="Next">
-                                <span aria-hidden="true">&raquo;</span>
-                                <span class="sr-only">Anterior</span>
-                            </a>
-                        </li>
-                        <li class="page-item disabled"><a class="page-link">Ultima</a></li>
-                    </ul>
-                </nav>
-                <hr class="cor-verde">
-            </div>
-           
-        </div>
         
         <!--Swap out the content with your own-->
         <div class="container">
             <div class="jumbotron page" id="page1">
                 <div class="container">
-                    <h1 class="display-3">Adding Pagination to your Website</h1><br>
-                <p class="lead">In this article we teach you how to add pagination, an excellent way to navigate large amounts of content, to your website using a jQuery Bootstrap Plugin.</p><br>
-                <p><a class="btn btn-lg btn-success" href="#" role="button">Learn More</a></p>
+                    <h6 class="display-3">Oi Padrinho, oi Madrinha</h6><br>
+                <p class="lead">Que Alegria ter Voce connosco nesse legado de Trasnformacao de Vidas</p><br>
+                <p class="lead">A que e a sua area para saber mais sobre o apadrinhamento, tirar duvidas
+                e realizar algumas acoes simples e rapidas como: actualizar seus dados ou forma de Pagamento</p><br>
+
+                
                 </div>
             </div>
             <div class="jumbotron page" id="page2">

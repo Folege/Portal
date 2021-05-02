@@ -52,13 +52,13 @@
                       <a class="nav-link" href="index.php"><i class="fas fa-home"></i>Inicio</a>
                     </li>
                     <li class="nav-item">
-                      <a class="nav-link" href="doencas-raras.php">Padrinhos</a>
+                      <a class="nav-link" href="padrinhos.php">Padrinhos</a>
                     </li>
                     <li class="nav-item">
                       <a class="nav-link" href="programas-apadrinhamento.php">Programas de Apadrinhamento</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="lista-instituicoes.php">Instituições de Ensino Especial</a>
+                        <a class="nav-link" href="cerci.php">Cerci</a>
                     </li>
                     <li class="nav-item dropdown">
                         <a class="nav-link dropdown-toggle" data-toggle="dropdown" href="#">Acoes</a>

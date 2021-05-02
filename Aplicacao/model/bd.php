@@ -1,7 +1,7 @@
 <?php
 
     function getConexao(){
-        $conexao = mysqli_connect("127.0.0.1", "root", "", "bdsapdr2");
+        $conexao = mysqli_connect("127.0.0.1", "root", "", "bdsapdr2",3307);
         //mysqli_set_charset('UTF8') OR die(); 
         if (!$conexao) {
             die("Falha na Conexao: " . mysqli_connect_error());
