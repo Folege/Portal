@@ -65,9 +65,10 @@
                 <h2 class="title">Oi Padrinho, oi Madrinha</h2> 
                 <p >Que Alegria ter Voce connosco nesse legado de Trasnformacao de Vidas</p><br>
                 <p >A que e a sua area para saber mais sobre o apadrinhamento, tirar duvidas
-                e realizar algumas acoes simples e rapidas como: actualizar seus dados ou forma de Pagamento</p><br>
+                e realizar algumas acoes simples e rapidas como: cadastrar-se como padrinho</p><br>
                 <p>
-                    Por aqui, você pode também escrever uma cartinha para seu afilhado(a) e fortalecer esse vínculo com uma pessoa que, talvez nunca tenha te visto de perto, mas que sabe que você é um ser muito especial na vida dela.               
+                    Por aqui, você pode também escrever uma cartinha para seu afilhado(a) e fortalecer esse vínculo com uma pessoa que, 
+                    talvez nunca tenha te visto de perto, mas que sabe que você é um ser muito especial na vida dela.               
                 </p>
                 <p>
                     Você também pode solicitar um agendamento de visita ou telefonema ao seu afilhado(a), 
