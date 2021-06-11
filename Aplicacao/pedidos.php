@@ -43,7 +43,7 @@
 
             <div class="row">
                 <div class="col-12">
-                    <h1>Pedidos de Apoio</h1>
+                    <h1>Doacoes</h1>
                 </div>
             </div>
 
@@ -52,110 +52,25 @@
 
     <!--Conteudo-->
     <div class="container">
-        <div class="row mb-5">
-            
-            <div class="col-md-3 col-sm-12">
-				<nav id="navbarVertical" class="navbar navbar-light bg-light nav-artigos">
-					<nav class="nav nav-pills flex-column ">						
-						<a class="nav-link" href="#test-1">Bolo de Casamento</a>				
-						<a class="nav-link" href="#test-2">Aumento De Recompesa</a>
-                        <a class="nav-link" href="#test-3">Olho Novo</a>
-					</nav>
-				</nav>	
-			</div>
+            <div class="jumbotron page" id="page1">
+                <div class="container">
+                    <h2>Oi Padrinho, oi Madrinha</h2><br>
+                <p >Que Alegria ter Voce connosco nesse legado de Trasnformacao de Vidas</p><br>
+                <p >A que e a sua area para saber mais sobre o apadrinhamento, tirar duvidas
+                e realizar algumas acoes simples e rapidas como: actualizar seus dados ou forma de Pagamento</p><br>
+                <p>
+                Por aqui, você pode também escrever uma cartinha para seu afilhado(a) e fortalecer esse vínculo com uma pessoa que, talvez nunca tenha te visto de perto, mas que sabe que você é um ser muito especial na vida dela.
 
-
-            <div class="col-md-9 col-sm-12">
-                <div data-spy="scroll" data-target="#navbarVertical" data-offset="0" id="scrolArtigos">
-                    
-                    <article class="col-sm-12 artigo mt-3" id="test-1">
-                        <h2 >Bolo de Casamento </h2>
-                        <img class="img img-thumbnail my-3" src="imgs/pedido-1.png" alt="pedido">
-                        <p> Nullam hendrerit justo non leo aliquet imperdiet. Etiam in sagittis lectus. Suspendisse ultrices placerat accumsan.
-                            Mauris quis dapibus orci. In dapibus velit blandit pharetra tincidunt. Quisque non sapien nec lacus condimentum
-                            facilisis ut iaculis enim. Sed viverra interdum bibendum. Donec ac sollicitudin dolor. Sed fringilla vitae lacus at
-                            rutrum. Phasellus congue vestibulum ligula sed consequat.</p>
-                        <p>Vestibulum consectetur scelerisque lacus, ac fermentum lorem convallis sed. Nam odio tortor, dictum quis malesuada
-                            at, pellentesque vitae orci. Vivamus elementum, felis eu auctor lobortis, diam velit egestas lacus, quis fermentum
-                            metus ante quis urna. Sed at facilisis libero. Cum sociis natoque penatibus et magnis dis parturient montes,
-                            nascetur ridiculus mus. Vestibulum bibendum blandit dolor. Nunc orci dolor, molestie nec nibh in, hendrerit
-                            tincidunt ante. Vivamus sem augue, hendrerit non sapien in, mollis ornare augue.</p>
-                        <ul class="list-unstyled footer-icone" >
-                            <li class="list-inline-item cor-cizenta">Partilhar:</li>
-                            <li class="list-inline-item"><a href=""><i class="fab  fa-facebook-square text-primary"></i></a></li>
-                            <li class="list-inline-item"><a href=""><i class="fab fa-whatsapp text-success"></i></a></li>
-                            <li class="list-inline-item"><a href=""><i class="fab  fa-instagram text-warning"></i></a></li>
-                        </ul>
-                        <hr>
-                        <h4> Beneficiário: Uma Younkou <br> Contacto: 842361987</h4>
-                    </article>
-                    
-
-                    <article class="col-sm-12 artigo mt-3" id="test-2">
-                        <h2 >Aumento de Recompesa </h2>
-                        <img class="img img-thumbnail my-3" src="imgs/pedido-2.png" alt="pedido">
-                        <p> Nullam hendrerit justo non leo aliquet imperdiet. Etiam in sagittis lectus. Suspendisse ultrices placerat accumsan.
-                            Mauris quis dapibus orci. In dapibus velit blandit pharetra tincidunt. Quisque non sapien nec lacus condimentum
-                            facilisis ut iaculis enim. Sed viverra interdum bibendum. Donec ac sollicitudin dolor. Sed fringilla vitae lacus at
-                            rutrum. Phasellus congue vestibulum ligula sed consequat.</p>
-                        <p>Vestibulum consectetur scelerisque lacus, ac fermentum lorem convallis sed. Nam odio tortor, dictum quis malesuada
-                            at, pellentesque vitae orci. Vivamus elementum, felis eu auctor lobortis, diam velit egestas lacus, quis fermentum
-                            metus ante quis urna. Sed at facilisis libero. Cum sociis natoque penatibus et magnis dis parturient montes,
-                            nascetur ridiculus mus. Vestibulum bibendum blandit dolor. Nunc orci dolor, molestie nec nibh in, hendrerit
-                            tincidunt ante. Vivamus sem augue, hendrerit non sapien in, mollis ornare augue.</p>
-                        <ul class="list-unstyled footer-icone" >
-                            <li class="list-inline-item cor-cizenta">Partilhar:</li>
-                            <li class="list-inline-item"><a href=""><i class="fab  fa-facebook-square text-primary"></i></a></li>
-                            <li class="list-inline-item"><a href=""><i class="fab fa-whatsapp text-success"></i></a></li>
-                            <li class="list-inline-item"><a href=""><i class="fab  fa-instagram text-warning"></i></a></li>
-                        </ul>
-                        <hr>
-                        <h4> Beneficiário: Monkey D. Luffy <br> Contacto: 842361987</h4>
-                    </article>
-
-                    <article class="col-sm-12 artigo mt-3" id="test-3">
-                        <h2 >Olho novo</h2>
-                        <img class="img img-thumbnail my-3" src="imgs/pedido-3.png" alt="pedido">
-                        <p> Nullam hendrerit justo non leo aliquet imperdiet. Etiam in sagittis lectus. Suspendisse ultrices placerat accumsan.
-                            Mauris quis dapibus orci. In dapibus velit blandit pharetra tincidunt. Quisque non sapien nec lacus condimentum
-                            facilisis ut iaculis enim. Sed viverra interdum bibendum. Donec ac sollicitudin dolor. Sed fringilla vitae lacus at
-                            rutrum. Phasellus congue vestibulum ligula sed consequat.</p>
-                        <p>Vestibulum consectetur scelerisque lacus, ac fermentum lorem convallis sed. Nam odio tortor, dictum quis malesuada
-                            at, pellentesque vitae orci. Vivamus elementum, felis eu auctor lobortis, diam velit egestas lacus, quis fermentum
-                            metus ante quis urna. Sed at facilisis libero. Cum sociis natoque penatibus et magnis dis parturient montes,
-                            nascetur ridiculus mus. Vestibulum bibendum blandit dolor. Nunc orci dolor, molestie nec nibh in, hendrerit
-                            tincidunt ante. Vivamus sem augue, hendrerit non sapien in, mollis ornare augue.</p>
-                            <p> Nullam hendrerit justo non leo aliquet imperdiet. Etiam in sagittis lectus. Suspendisse ultrices placerat accumsan.
-                            Mauris quis dapibus orci. In dapibus velit blandit pharetra tincidunt. Quisque non sapien nec lacus condimentum
-                            facilisis ut iaculis enim. Sed viverra interdum bibendum. Donec ac sollicitudin dolor. Sed fringilla vitae lacus at
-                            rutrum. Phasellus congue vestibulum ligula sed consequat.</p>
-                        <p>Vestibulum consectetur scelerisque lacus, ac fermentum lorem convallis sed. Nam odio tortor, dictum quis malesuada
-                            at, pellentesque vitae orci. Vivamus elementum, felis eu auctor lobortis, diam velit egestas lacus, quis fermentum
-                            metus ante quis urna. Sed at facilisis libero. Cum sociis natoque penatibus et magnis dis parturient montes,
-                            nascetur ridiculus mus. Vestibulum bibendum blandit dolor. Nunc orci dolor, molestie nec nibh in, hendrerit
-                            tincidunt ante. Vivamus sem augue, hendrerit non sapien in, mollis ornare augue.</p><p> Nullam hendrerit justo non leo aliquet imperdiet. Etiam in sagittis lectus. Suspendisse ultrices placerat accumsan.
-                            Mauris quis dapibus orci. In dapibus velit blandit pharetra tincidunt. Quisque non sapien nec lacus condimentum
-                            facilisis ut iaculis enim. Sed viverra interdum bibendum. Donec ac sollicitudin dolor. Sed fringilla vitae lacus at
-                            rutrum. Phasellus congue vestibulum ligula sed consequat.</p>
-                        <p>Vestibulum consectetur scelerisque lacus, ac fermentum lorem convallis sed. Nam odio tortor, dictum quis malesuada
-                            at, pellentesque vitae orci. Vivamus elementum, felis eu auctor lobortis, diam velit egestas lacus, quis fermentum
-                            metus ante quis urna. Sed at facilisis libero. Cum sociis natoque penatibus et magnis dis parturient montes,
-                            nascetur ridiculus mus. Vestibulum bibendum blandit dolor. Nunc orci dolor, molestie nec nibh in, hendrerit
-                            tincidunt ante. Vivamus sem augue, hendrerit non sapien in, mollis ornare augue.</p>
-                        <ul class="list-unstyled footer-icone" >
-                            <li class="list-inline-item cor-cizenta">Partilhar:</li>
-                            <li class="list-inline-item"><a href=""><i class="fab  fa-facebook-square text-primary"></i></a></li>
-                            <li class="list-inline-item"><a href=""><i class="fab fa-whatsapp text-success"></i></a></li>
-                            <li class="list-inline-item"><a href=""><i class="fab  fa-instagram text-warning"></i></a></li>
-                        </ul>
-                        <hr>
-                       <h4> Beneficiário: Zoro <br> Contacto: 842361987</h4>
-                    </article>
-                    
+                Você também pode solicitar um agendamento de visita ou telefonema ao seu afilhado(a), ou fazer algum requerimento especial sobre sua criança apadrinhada               
+                </p>
+                
                 </div>
             </div>
-        </div>
-     </div>    
+        
+            
+            </div>
+
+        </div>     
 
     <!--Rodape-->
     <?php
