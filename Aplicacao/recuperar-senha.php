@@ -8,7 +8,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     
-    <title>Recuperar Senha | SAPDR</title>
+    <title>Recuperar Senha | SACEM</title>
     
     <link rel="stylesheet" type="text/css" href="css/bootstrap.css">
     <link rel="stylesheet" href="css/fonts.css">
@@ -34,7 +34,7 @@
     
             <div class="row mt-3">
                 <div class="col-12">
-                    <p id="dir"><a href="index.html"><i class="fas fa-home mr-1"></i>Inicio</a> > Minha Conta > <a href="login.php">Entrar</a> ><span
+                    <p id="dir"><a href="index.php"><i class="fas fa-home mr-1"></i>Inicio</a> > Minha Conta > <a href="login.php">Entrar</a> ><span
                             class="texto-verde">Recuperar Senha</span></p>
                     <hr class="cor-verde">
                 </div>

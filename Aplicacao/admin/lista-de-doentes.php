@@ -8,7 +8,7 @@
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <meta http-equiv="X-UA-Compatible" content="ie=edge">
         
-        <title>Lista de Doentes | Admin</title>
+        <title>Lista de Padrinhos | Admin</title>
         
         <link rel="stylesheet" type="text/css" href="../css/bootstrap.css">
         <link rel="stylesheet" href="../css/fonts.css">
@@ -41,13 +41,13 @@
             <!--Conteudo-->
             <div class="container-fluid" id="conteudo">
                 <div class="row conteudo-dir pt-4">
-                    <h5 class="ml-3">Doente/Represetante</h5>
-                    <p class="ml-5 dir"><a href="#">Inicio</a> >> Usuários >> <span class="text-sucess">Doente/Represetante</span></p>
+                    <h5 class="ml-3">Padrinhos</h5>
+                    <p class="ml-5 dir"><a href="#">Inicio</a> >> Usuários >> <span class="text-sucess">Padrinhos</span></p>
                 </div>
                 <div class="row mt-2">
-                    <div class="col-sm-11 ">
+                    <div class="col-sm-12 ">
                         <div class="float-right">
-                            <a class="btn btn-danger ml-2" href="">
+                            <a class="btn btn-danger ml-2 mr-2" href="">
                                     <i class="fa fa-trash"></i>    
                             </a>   
                         </div>
@@ -56,33 +56,35 @@
                      
                 </div>
                 <div class="row justify-content-center">
-    
-                    <table class="table col-lg-10 col-md-10 col-sm-10 tabela mt-2">
-                        <thead >
-                            <tr class="cor-creme">
-                               <td class="titulo-tabela" colspan="6"><i class="fa fa-list mr-2"></i>Lista de Doentes/Representantes</td>
-                                
-                            </tr>
-                            <tr>
-                                <th class="texto-verde text-center" style="width:2px;">
-                                    <input type="checkbox" onclick="selecionar()">
-                                </th>
-                                <th class="texto-verde">Nome</th>
-                                <th class="texto-verde">Doença</th>
-                                <th class="texto-verde">Email</th>
-                                <th class="texto-verde">Telefone</th>
-                                <th class="texto-verde" >
-                                    <a href="">Accao</a>
-                                </th>
-                            </tr>
-                        </thead>
-                        <tbody>
-                            <?php
-                                include('../model/doenteDAO.php');
-                                listaDoente();
-                            ?>
-                        </tbody>
-                    </table>
+                    <div class="table-responsive col-sm-12">
+                        <table class="table table-bordered table-hover tabela mt-2">
+                            <thead >
+                                <tr class="cor-creme">
+                                    <td class="titulo-tabela" colspan="5"><i class="fa fa-list mr-2"></i>Lista de Padrinhos</td>
+                                    
+                                </tr>
+                                <tr>
+                                    <th class="texto-verde text-center" style="width:2px;">
+                                        <input type="checkbox" onclick="selecionar()">
+                                    </th>
+                                    <th class="texto-verde">Nome</th>
+                                    <th class="texto-verde">Email</th>
+                                    <th class="texto-verde">Instituicao</th>
+                                    <th class="texto-verde" >
+                                        <a href="">Acção</a>
+                                    </th>
+                                </tr>
+                            </thead>
+                            <tbody>
+                            <tbody id="tabela-corpo"> 
+                                <?php
+                                    include_once("../model/profissionalDAO.php");
+                                    listaProf();
+                                ?> 
+                            
+                            </tbody>
+                        </table>
+                    </div>
 
                 </div>
 

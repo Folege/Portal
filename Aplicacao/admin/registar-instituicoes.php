@@ -8,7 +8,7 @@
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <meta http-equiv="X-UA-Compatible" content="ie=edge">
         
-        <title>SACE | Admin</title>
+        <title>SACEM | Admin</title>
         
         <link rel="stylesheet" type="text/css" href="../css/bootstrap.css">
         <link rel="stylesheet" href="../css/fonts.css">
@@ -51,8 +51,8 @@
             <div class="container-fluid" id="conteudo">
 
                 <div class="row conteudo-dir pt-4">
-                    <h5 class="ml-3">Centros/Escola</h5>
-                    <p class="ml-5 dir"><a href="#">Inicio</a>  >> Usuários >> <span class="text-sucess">Centros/Escola</span></p>
+                    <h5 class="ml-3">Instituicoes de Ensino Especial</h5>
+                    <p class="ml-5 dir"><a href="#">Inicio</a>  >> Usuários >> <span class="text-sucess">Instituicoes de Ensino Especial</span></p>
                 </div>
 
                 <div class="row my-2 justify-content-center">
@@ -63,7 +63,7 @@
 
                 <div class="row justify-content-center">
                     <div class="col-sm-11 borda-titulo">
-                        <label><i class="fas fa-plus mr-1"></i>Adicionar Centro/Escola</label>
+                        <label><i class="fas fa-plus mr-1"></i>Adicionar Instituicoes de Ensino Especial</label>
                     </div>
                 </div>
                 <div class="row justify-content-center">
@@ -77,18 +77,6 @@
                                     <div class="form-group col-sm-5 mt-2 ml-3">
                                         <label for="nome" >Nome:</label>
                                         <input type="text" name="nome" id="nome"  class="form-control"  placeholder="Nome" required>
-                                        <div class="help-block with-errors"></div>
-                                    </div>
-                                </div>
-                                <div class="form-row">
-                                    <div class="form-group col-sm-5 mt-2 ml-3">
-                                        <label for="tipo" >Programa de Apadrinhamento:</label>
-                                        <select class="form-control valid" name="tipo" id="tipo"  required>
-                                            <option disable value="0" >...</option>
-                                            <option value="Associacao" >Projecto Kupfuna</option>
-                                            <option value="Hospital">Hospital</option>
-                                            <option value="Farmacia">Farmacia</option>
-                                        </select>
                                         <div class="help-block with-errors"></div>
                                     </div>
                                 </div>

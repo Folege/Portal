@@ -8,7 +8,7 @@
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <meta http-equiv="X-UA-Compatible" content="ie=edge">
         
-        <title>Profissional da Saúde | Admin</title>
+        <title>Administradores | Admin</title>
         
         <link rel="stylesheet" type="text/css" href="../css/bootstrap.css">
         <link rel="stylesheet" href="../css/fonts.css">
@@ -47,8 +47,8 @@
             <div class="container-fluid" id="conteudo">
 
                 <div class="row conteudo-dir pt-4">
-                    <h5 class="ml-3">Profissional da Saúde</h5>
-                    <p class="ml-5 dir"><a href="#">Inicio</a>  >> Usuários >> <span class="text-sucess"> Profissional da Saúde</span></p>
+                    <h5 class="ml-3">Administradores</h5>
+                    <p class="ml-5 dir"><a href="#">Inicio</a>  >> Usuários >> <span class="text-sucess"> Administradores</span></p>
                 </div>
 
                 <div class="row my-2 justify-content-center">
@@ -59,7 +59,7 @@
 
                 <div class="row justify-content-center">
                     <div class="col-sm-11 borda-titulo">
-                        <label><i class="fas  fa-user-plus mr-2"></i>Adicionar Profissional</label>
+                        <label><i class="fas  fa-user-plus mr-2"></i>Adicionar Administrador</label>
                     </div>
                 </div>
                 <div class="row justify-content-center">
@@ -71,8 +71,7 @@
                                 <ul class="mt-2">
                                     <li><a href="#step-1">Passo 1<br /><small>Dados Pessoais</small></a></li>
                                     <li><a href="#step-2">Passo 2<br /><small>Contacto e Endereco</small></a></li>
-                                    <li><a href="#step-3">Passo 3<br /><small>Informacao Profissional</small></a></li>
-                                    <li><a href="#step-4">Passo 4<br /><small>Dados de Acesso</small></a></li>
+                                    <li><a href="#step-3">Passo 3<br /><small>Dados de Acesso</small></a></li>
                                 </ul>
                     
                                 <div>
@@ -171,26 +170,10 @@
                                             </div> 
                                         </div>
                                     </div>
-                                    <div id="step-3">
-                                        <div id="form-step-2" role="form" data-toggle="validator">
-                                            <legend>Informaco Profissional</legend>
-                                            <div class="form-row">
-                            
-                                                <div class="form-group col-sm-5 mt-2 ml-3">
-                                                    <label for="unidade_h" >Unidade Hospitalar:</label>
-                                                    <select class="form-control " name="unidade_h" id="unidade_h" required>
-                                                        <option value="0" >...</option>
-                                                        <option value="1">Hospital Centra</option>
-                                                        <option value="1">Hospital Jose Macamo</option>
-                                                    </select>
-                                                </div>
-                                                
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <div id="step-4" class="">
+                                    
+                                    <div id="step-3" class="">
                                         
-                                        <div id="form-step-3" role="form" data-toggle="validator">
+                                        <div id="form-step-4" role="form" data-toggle="validator">
                                             <legend>Dados de Acesso</legend>
                                             <div class="form-row">
                                                 <div class="form-group col-sm-5 mt-2 ml-3">

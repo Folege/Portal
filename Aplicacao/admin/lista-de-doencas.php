@@ -8,7 +8,7 @@
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <meta http-equiv="X-UA-Compatible" content="ie=edge">
         
-        <title>Lista de Doenças | Admin</title>
+        <title>Lista de Padrinhos | Admin</title>
         
         <link rel="stylesheet" type="text/css" href="../css/bootstrap.css">
         <link rel="stylesheet" href="../css/fonts.css">
@@ -43,8 +43,8 @@
             <!--Conteudo-->
             <div class="container-fluid" id="conteudo">
                 <div class="row conteudo-dir pt-4">
-                    <h5 class="ml-3">Doenças Raras</h5>
-                    <p class="ml-5 dir"><a href="#">Inicio</a> >><span class="text-sucess"> Doenças Raras</span></p>
+                    <h5 class="ml-3">Padrinhos</h5>
+                    <p class="ml-5 dir"><a href="#">Inicio</a> >><span class="text-sucess">Padrinhos</span></p>
                 </div>
                 <div class="row mt-2">
                     <div class="col-sm-12 ">

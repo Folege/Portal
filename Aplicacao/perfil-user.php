@@ -8,7 +8,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     
-    <title>Cadastro | SAPDR</title>
+    <title>Cadastro | SACEM</title>
     
     <link rel="stylesheet" type="text/css" href="css/bootstrap.css">
     <link rel="stylesheet" href="css/fonts.css">
@@ -34,7 +34,7 @@
     
             <div class="row mt-3">
                 <div class="col-12">
-                    <p id="dir"><a href="index.html"><i class="fas fa-home mr-1"></i>Inicio</a> > Minha Conta > <span
+                    <p id="dir"><a href="index.php"><i class="fas fa-home mr-1"></i>Inicio</a> > Minha Conta > <span
                             class="texto-verde">Perfil</span></p>
                     <hr class="cor-verde">
                 </div>
@@ -66,8 +66,7 @@
                         <ul class="mt-2 cor-creme">
                             <li><a href="#step-1">Passo 1<br /><small>Dados Pessoais</small></a></li>
                             <li><a href="#step-2">Passo 2<br /><small>Contacto e Enderreço</small></a></li>
-                            <li><a href="#step-3">Passo 3<br /><small>Dados da Doença</small></a></li>
-                            <li><a href="#step-4">Passo 4<br /><small>Dados de Acesso</small></a></li>
+                            <li><a href="#step-3">Passo 3<br /><small>Dados de Acesso</small></a></li>
                         </ul>
         
                         <div id="form-div">
@@ -184,55 +183,9 @@
                                     </div>
                                 </div>
                             </div>
-                            <div id="step-3">
-                                <div id="form-step-2" role="form" data-toggle="validator">
-                                    <legend>Dados da Doença</legend>
-                                    
-                                    <div class="form-row">
-                                        <div class="form-group col-sm-5 mt-2 ml-3">
-                                            <label for="doenca" >Nome da Doença</label>
-                                            <input class="form-control" id="doenca" list="doencas">
-                                            <datalist id="doencas">
-                                                <option value="11111"></option>
-                                                <option value="22222"></option>
-                                                <option value="33333"></option>
-                                            </datalist>
-                                        </div>
-                                    </div>
-
-                                    <div class="form-row justify-content-leaft">
-                                        <div class="form-group col-sm-5 ml-3">
-                                            <label for="trat">Encotra-se a recebr tratmaento?</label>
-                                        
-                                       
-                                            <div class="radio">
-                                                <label>
-                                                    <input type="radio" name="optionsRadios" id="optionsRadios1" value="option1" checked> Sim    
-                                                </label> 
-                                            </div>
-                                            <div class="radio">    
-                                                <label>       
-                                                    <input type="radio" name="optionsRadios" id="optionsRadios1" value="option1"> Não    
-                                                </label> 
-                                            </div>
-                                        </div>
-
-                                        <div class="form-group col-sm-5">
-                                            <label for="hosp">Em que unidade Hospitalar</label>
-                                            <input class="form-control" id="hosp" list="hospital">
-                                            <datalist id="hospital">
-                                                <option value="11111"></option>
-                                                <option value="22222"></option>
-                                                <option value="33333"></option>
-                                            </datalist>
-                                        </div>
-                                    </div>
-
-                                </div>
-                            </div>
-                            <div id="step-4" class="">
+                            <div id="step-3" class="">
         
-                                <div id="form-step-3" role="form" data-toggle="validator">
+                                <div id="form-step-2" role="form" data-toggle="validator">
                                     <legend>Dados de Acesso</legend>
                                     <div class="form-row">
                                         <div class="form-group col-sm-5 mt-2 ml-3">
